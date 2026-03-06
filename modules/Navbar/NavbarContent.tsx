@@ -14,7 +14,7 @@ interface DataType {
 
 const NavbarContent:FC<{data : DataType[]}> = ({data:navbarData}) => {
   return (
-    <div className=" py-4 w-full fixed bg-white">
+    <div className="py-4 w-full fixed bg-white">
   <div className="container flex items-center justify-between">
   <div className="flex items-center gap-12">
    <Image src={WebsiteLogo} alt="website logo" loading="eager" className="pt-2"/>
