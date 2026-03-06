@@ -1,0 +1,106 @@
+{
+    "navbar-data" : [
+        {
+            "id": 1,
+             "content": "Home",
+             "path": "/"
+        },
+        {
+            "id": 2,
+             "content": "Features",
+             "path": "/"
+        },
+        {
+            "id": 3,
+             "content": "Pricing",
+             "path": "/"
+        },
+        {
+            "id": 4,
+             "content": "About Us",
+             "path": "/"
+        },
+        {
+            "id": 5,
+             "content": "Help",
+             "path": "/"
+        }
+    ],
+    "hero-data" : {
+        "title": "This headline is the gist of the Your whole Website",
+        "description": "And the description of hero section is follow up message after the punch of a great headline. So, make it short, simple, descriptive and to the point.",
+        "quote": "Here you can put secondary action statement & CTA",
+        "poster" : "/images/sectionImg1.png",
+        "images" : [
+            {
+                "id" : 1,
+                "image": "/images/Logitech.svg"
+            },
+            {
+                "id" : 2,
+                "image": "/images/Google.svg"
+            },
+
+            {
+                "id" : 3,
+                "image": "/images/Amazon.svg"
+            }
+        ]
+    },
+    "benefit-data" : {
+        "posterTitle": "Benefits of working with us",
+        "benefitList" : [
+            {
+                "id":1,
+                "title" : "Time zones ain’t no thing",
+                "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mattis et sed nam sem tellus erat.",
+                "icon": "/icons/benefit1.svg"
+            },
+            {
+                "id":2,
+                "title" : "Full spectrum of services",
+                "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mattis et sed nam sem tellus erat.",
+                "icon": "/icons/benefit2.svg"
+            },
+            {
+                "id":3,
+                "title" : "Impossible? We’re on it",
+                "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mattis et sed nam sem tellus erat.",
+                "icon": "/icons/benefit3.svg"
+            },
+            {
+                "id":4,
+                "title" : "Flexible work terms",
+                "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mattis et sed nam sem tellus erat.",
+                "icon": "/icons/benefit4.svg"
+            }
+        ]
+    },
+    "closing-data" : {
+        "title": "The Is Closing Headline To Make A Impact For Call To Action",
+        "description" : "Nowadays, it isn’t uncommon to see lenders rapidly adopting a digital lending strategy to streamline the lending process nowadays, it isn’t uncommon to see lenders rapidly",
+        "images" : [
+            {
+                "id":1,
+                "content": "/images/Philips.svg"
+            }, {
+                "id":2,
+                "content": "/images/Logitech.svg"
+            }, {
+                "id":3,
+                "content": "/images/Amazon.svg"
+            }, {
+                "id":4,
+                "content": "/images/Facebook.svg"
+            }, {
+                "id":5,
+                "content": "/images/Google.svg"
+            }, {
+                "id":6,
+                "content": "/images/LinkedIn.svg"
+            }
+        ]
+    }
+}
+
+

@@ -1,10 +1,18 @@
-import Link from "next/link";
+import { Benefit, Closing, Footer, Headline, Hero, Navbar, Process, Story } from "@/modules";
 
-export default function Home() {
+export default function Main() {
   return (
   <div>
-  <Link href={"/"}>Home</Link>
-  <Link href={"/about"}>About</Link>
+   <Navbar/>
+<div className="container">
+<Hero/>
+<Headline/>
+<Benefit/>
+<Story/>
+<Process/>
+</div>
+<Closing/>
+<Footer/>
   </div>
   );
 }
